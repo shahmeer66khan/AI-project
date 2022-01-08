@@ -30,4 +30,4 @@ We Selected Adaptive Boosting and Decision Tree These two model were more effici
 We took referece and guidance from website of GeeksforGeeks, Online Blog and Youtube Videos.
 
 **Score:**
-![This is an image](/Img01.png)
+![This is an image](/image.png)
