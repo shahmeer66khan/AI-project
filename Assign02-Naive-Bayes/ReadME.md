@@ -9,4 +9,4 @@
 We took referece and guidance from website of GeeksforGeeks, Medium Blog and Youtube Videos.
 
 **Score:**
-![This is an image](/img.png)
+![This is an image](/Assign02-Naive-Bayes/img.png)
